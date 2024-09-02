@@ -1,4 +1,4 @@
-#QBot 
+# QBot 
 
 A bot that extracts your various Quotes from the "quotes" channel of your discord server and can search through them with search terms the user inputs.
 
